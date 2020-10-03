@@ -1,0 +1,1 @@
+[![DeepSource](https://deepsource.io/gh/Lin-to-John/interactive_dictionary.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/Lin-to-John/interactive_dictionary/?ref=repository-badge) 
